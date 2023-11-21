@@ -11,10 +11,10 @@ public class Constant {
     public final static String rootPath = "";
     public final static String fileExtension = ".xlsx";
     public final static String fileName = "dictionary";
-    public final static Long timeToWait = 500L;
+    public final static Long timeToWait = 600L;
 
     //язык
-//    public final static LanguageEnam language = LanguageEnam.Russian;
+ //   public final static LanguageEnam language = LanguageEnam.Russian;
     public final static LanguageEnam language = LanguageEnam.English;
 
     // надо ли перемешивать список слов
